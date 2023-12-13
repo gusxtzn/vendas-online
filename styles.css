@@ -26,8 +26,8 @@
 
 
 .tabela-a {
-    width: 100%;   /* Define a largura do container */ 
-    height: auto;   /* Define a altura do container */ 
+    width: 50%;   /* Define a largura do container */ 
+    height: "match_parent";   /* Define a altura do container */ 
 
     display: flex;   /* Centraliza o card no meio da página */ 
 
@@ -39,11 +39,11 @@
 
   .tabela-b {     /* Estilos para deixar o card redondo */ 
 
-      border-radius: 13%;     /* Deixa os cantos arredondados*/  
+      border-radius: 8%;     /* Deixa os cantos arredondados*/  
 
-      width: 275px;     /* Define a largura do card*/  
+      width: 255px;     /* Define a largura do card*/  
 
-      height: 380px;     /* Define a altura do card*/  
+      height: 300px;     /* Define a altura do card*/  
 
       background-color:#303030;     /* Cor de fundo do card*/  
 
