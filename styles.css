@@ -4,9 +4,9 @@
 
     display: flex;   /* Centraliza o card no meio da página */ 
 
-    text-align: center; /* centralizar o text */
+    text-align: leaft; /* centralizar o text */
 
-    justify-content: center;   /* Centraliza o card no meio da página */ 
+    justify-content: leaft;   /* Centraliza o card no meio da página */ 
 
   }
 
